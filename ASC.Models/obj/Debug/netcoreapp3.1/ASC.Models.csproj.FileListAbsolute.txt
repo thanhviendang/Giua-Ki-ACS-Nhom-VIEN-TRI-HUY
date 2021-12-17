@@ -1,0 +1,9 @@
+C:\Users\Admin\source\repos\ASC\ASC.Models\bin\Debug\netcoreapp3.1\ASC.Models.deps.json
+C:\Users\Admin\source\repos\ASC\ASC.Models\bin\Debug\netcoreapp3.1\ASC.Models.dll
+C:\Users\Admin\source\repos\ASC\ASC.Models\bin\Debug\netcoreapp3.1\ASC.Models.pdb
+C:\Users\Admin\source\repos\ASC\ASC.Models\obj\Debug\netcoreapp3.1\ASC.Models.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ASC\ASC.Models\obj\Debug\netcoreapp3.1\ASC.Models.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ASC\ASC.Models\obj\Debug\netcoreapp3.1\ASC.Models.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ASC\ASC.Models\obj\Debug\netcoreapp3.1\ASC.Models.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ASC\ASC.Models\obj\Debug\netcoreapp3.1\ASC.Models.dll
+C:\Users\Admin\source\repos\ASC\ASC.Models\obj\Debug\netcoreapp3.1\ASC.Models.pdb
